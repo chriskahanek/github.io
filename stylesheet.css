@@ -9,7 +9,16 @@ h2 {
   color: #663;
   font-family: Cochin, Times, 'Times New Roman', serif;
   font-weight: normal;
+  font-variant: small-caps;
   font-size: x-large;
+}
+
+h3 {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  font-weight: normal;
+  font-size: medium;
 }
 
 p {
