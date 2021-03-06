@@ -1,7 +1,7 @@
 h1 {
   color: #cc9;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: bold;
+  font-weight: bolder;
   font-size: xx-large;
 }
 
@@ -9,7 +9,7 @@ h2 {
   color: #663;
   font-family: Cochin, Times, 'Times New Roman', serif;
   font-weight: normal;
-  font-size: large;
+  font-size: x-large;
 }
 
 p {
@@ -19,7 +19,7 @@ p {
 }
 
 hr{
-  height: 3px;
+  height: 2px;
   background-color: #903;
   border: none;
 }
