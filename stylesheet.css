@@ -1,5 +1,22 @@
-body {
-    background-color: lightblue;
-    color: darkblue;
-    font-size: 18px;
-  }
+h1 {
+  color: #cc9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+h1 {
+  color: #663;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: large;
+}
+
+p {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+hr{
+  color: #903;
+}
