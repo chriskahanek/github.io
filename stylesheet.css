@@ -2,13 +2,13 @@ h1 {
   color: #cc9;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bolder;
-  font-size: xx-large;
+  font-size:xx-large;
 }
 
 h2 {
   color: #663;
   font-family: Cochin, Times, 'Times New Roman', serif;
-  font-weight: bold;
+  font-weight: normal;
   font-size: x-large;
 }
 
