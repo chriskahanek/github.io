@@ -1,14 +1,14 @@
 h1 {
   color: #cc9;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
   font-size: xx-large;
 }
 
 h2 {
   color: #663;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: bold;
+  font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
   font-size: large;
 }
 
@@ -17,6 +17,9 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: small;
 }
+
 hr{
-  color: #903;
+  height: 3px;
+  background-color: #903;
+  border: none;
 }
