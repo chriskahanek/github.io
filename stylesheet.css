@@ -7,7 +7,7 @@ h1 {
 
 h2 {
   color: #663;
-  font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cochin, Times, 'Times New Roman', serif;
   font-weight: normal;
   font-size: large;
 }
@@ -15,7 +15,7 @@ h2 {
 p {
   color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: small;
+  font-size: medium;
 }
 
 hr{
