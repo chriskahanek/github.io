@@ -32,3 +32,8 @@ hr{
   background-color: #903;
   border: none;
 }
+div.w960 {
+  max-width: 960px;
+  margin-left:auto;
+  margin-right:auto;
+}
